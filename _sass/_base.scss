@@ -20,7 +20,15 @@ body {
     overflow: hidden;
 }
 
+.hero-welcome {
+    background-image: url(/images/il-castello-del-trebbio.jpg);
 
+    img {
+        width: 80vw;
+        max-width: 20em;
+        margin: 0 auto;
+        margin-top: 5vh;
+        display: block;
     }
 }
 
