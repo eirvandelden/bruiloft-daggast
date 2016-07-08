@@ -6,3 +6,6 @@ layout: default
   <img src="/images/save-the-date-logo.png">
   <div class="hero-bar"></div>
 </div>
+
+<div class="text-block">
+</div>
