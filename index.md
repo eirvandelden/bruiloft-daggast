@@ -17,4 +17,9 @@ layout: default
     </p>
   </div>
 </div>
+
+<div class="hero hero-title hero-title-when">
+  <h2>
+    Wanneer
+  </h2>
 </div>

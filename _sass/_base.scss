@@ -46,6 +46,8 @@ body {
     }
 }
 
+.hero-title-when {
+    background-image: url(/images/il-castello-del-trebbio.jpg);
 }
 
 .hero-bar {
@@ -60,8 +62,16 @@ body {
     // border-bottom: 1em solid white;
 }
 
+.text-block {
+    padding: 8em 1em;
 }
 
+.text-block-inner{
+    max-width: 40em;
+    margin: 0 auto;
 }
 
+p {
+    margin-bottom: 1em;
+    line-height: 1.4;
 }
