@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Castello del Trebbio](/images/il-castello-del-trebbio.jpg)
+<div class="hero hero-welcome"></div>
 
 Op 13 September 2017 gaan Michèlle & Etienne elkaar het "ja"-woord geven in Florence.
 Graag nodigen wij jullie uit om deze gebeurtenis, samen met ons, bij te wonen.
