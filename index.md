@@ -37,3 +37,23 @@ layout: default
     </p>
   </div>
 </div>
+
+<div class="hero hero-title hero-title-where">
+  <h2>
+    Waar
+  </h2>
+</div>
+
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+    <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Via%20Santa%20Brigida%2C%209%20-%2050060%20Santa%20Brigida%20(Firenze)&key=AIzaSyBRKaSyH8IXq5exYvfhiBmRcflNWDiu4To" allowfullscreen></iframe>
+</p>
+    <p>
+      In Palazzo Vecchio, Florence, Italie.
+    </p>
+    <p>
+      Het diner zal plaats vinden op Castello del Trebbio, Pontassieve, Italie. Castello del Trebbio ligt 45 minuten van Florence af.
+    </p>
+  </div>
+</div>
