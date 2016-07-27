@@ -80,3 +80,26 @@ layout: default
     </p>
   </div>
 </div>
+
+<div class="hero hero-title hero-title-exclusive">
+  <h2>
+    Zelf regelen
+  </h2>
+</div>
+
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Een aantal dingen zul je zelf moeten regelen zoals
+    </p>
+    <p>
+      De reis heen en terug
+    </p>
+    <p>
+      Verblijf als je langer in Italie blijft
+    </p>
+    <p>
+      Lunch (en ontbijt) op de dag van aankomst.
+    </p>
+  </div>
+</div>
