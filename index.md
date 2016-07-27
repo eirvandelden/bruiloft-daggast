@@ -57,3 +57,26 @@ layout: default
     </p>
   </div>
 </div>
+
+<div class="hero hero-title hero-title-inclusive">
+  <h2>
+    Inclusief
+  </h2>
+</div>
+
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      2 dagen verblijf in agriturismo
+    </p>
+    <p>
+      2 maal ontbijt
+    </p>
+    <p>
+      lunch op trouwdag
+    </p>
+    <p>
+      diner op trouwdag
+    </p>
+  </div>
+</div>
