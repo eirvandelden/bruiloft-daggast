@@ -23,3 +23,17 @@ layout: default
     Wanneer
   </h2>
 </div>
+
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Op 12 september 2017 wordt je verwacht bij de accomodatie.
+    </p>
+    <p>
+      Op 13 September 2017 is de ceremonie en het diner.
+    </p>
+    <p>
+      Op 14 September 2017 is er nog ontbijt samen.
+    </p>
+  </div>
+</div>
