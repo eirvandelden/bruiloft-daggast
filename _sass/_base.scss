@@ -43,7 +43,7 @@ body {
         font-size: 6em;
         color: #BA8D52;
         font-weight: normal;
-        text-shadow: 2px 2px white;
+        text-shadow: 2px 2px #505050;
     }
 }
 
@@ -60,6 +60,9 @@ body {
     background-image: url(/images/flight.jpg);
 }
 .hero-title-rsvp {
+    background-image: url(/images/il-castello-del-trebbio.jpg);
+}
+.hero-title-news {
     background-image: url(/images/il-castello-del-trebbio.jpg);
 }
 

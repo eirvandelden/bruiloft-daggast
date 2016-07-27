@@ -115,7 +115,20 @@ layout: default
     <p>
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdEVClPHUBJk0q83rTwTaIWthEDStDyrjPbkDOqOW8ENtkmRA/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </p>
+  </div>
+</div>
+
+<div class="hero hero-title hero-title-news">
+  <h2>
+    Nieuws
+  </h2>
+</div>
+
+<div class="text-block">
+  <div class="text-block-inner">
+    <h2>15 augustus 2016</h2>
     <p>
+      De eerste "Save the Date" kaarten zijn uitgestuurd!
     </p>
   </div>
 </div>
