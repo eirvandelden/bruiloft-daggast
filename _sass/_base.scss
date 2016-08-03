@@ -1,6 +1,9 @@
 /**
  * Reset some basic elements
  */
+@import 'https://fonts.googleapis.com/css?family=Dynalight';
+@import 'https://fonts.googleapis.com/css?family=Lato:400';
+
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
@@ -9,7 +12,7 @@ dl, dd, ol, ul, figure {
 }
 
 body {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lato', 'Helvetica Neue' ,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .hero {
@@ -38,7 +41,7 @@ body {
     padding: 8em 0;
 
     h2 {
-        font-family: 'Snell Roundhand', Times, serif;
+        font-family: 'Dynalight', cursive, 'Snell Roundhand', Times, serif;
         text-align: center;
         font-size: 6em;
         color: #BA8D52;
