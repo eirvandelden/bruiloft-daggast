@@ -113,7 +113,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdEVClPHUBJk0q83rTwTaIWthEDStDyrjPbkDOqOW8ENtkmRA/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdEVClPHUBJk0q83rTwTaIWthEDStDyrjPbkDOqOW8ENtkmRA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
     </p>
   </div>
 </div>
