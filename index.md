@@ -126,9 +126,9 @@ layout: default
 
 <div class="text-block">
   <div class="text-block-inner">
-    <h2>15 augustus 2016</h2>
+    <h2>TODO</h2>
     <p>
-      De eerste "Save the Date" kaarten zijn uitgestuurd!
+      De website met al het nieuws is online!
     </p>
   </div>
 </div>
