@@ -51,9 +51,11 @@ body {
 
 .hero-title-when {
     background-image: url(/images/wedding-time.jpg);
+    text-shadow: 2px 2px #505050;
 }
 .hero-title-where {
     background-image: url(/images/palazzo-vecchio.jpg);
+    text-shadow: 2px 2px #505050;
 }
 .hero-title-inclusive {
     background-image: url(/images/dinner.jpg);
@@ -65,9 +67,11 @@ body {
 }
 .hero-title-rsvp {
     background-image: url(/images/il-castello-del-trebbio2.jpg);
+    text-shadow: 2px 2px #505050;
 }
 .hero-title-news {
     background-image: url(/images/wedding.jpg);
+    text-shadow: 2px 2px #505050;
 }
 
 .hero-bar {
@@ -83,12 +87,20 @@ body {
 }
 
 .text-block {
-    padding: 8em 1em;
+    padding: 3em 1em;
 }
 
 .text-block-inner{
     max-width: 40em;
     margin: 0 auto;
+
+    ul {
+        margin: auto 2em;
+    }
+
+    .no-wrap {
+        white-space: nowrap;
+    }
 }
 
 p {
