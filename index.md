@@ -34,7 +34,7 @@ layout: default
   <div class="text-block-inner">
     <p>
       Op <em>12 september 2017</em> word je verwacht bij de accomodatie. Tussen 16:00 en 19:00 zullen de meeste mensen aankomen.
-      19:00 Het lijkt ons leuk om te beginnen met een gezamenlijk diner met het hele gezelschap.
+      lijkt ons leuk om de eerste avond gezamenlijk te eten met het hele gezelschap.
     </p>
     <p>
       Op <em>13 september 2017</em> is de daadwerkelijk plechtigheid. In de ochtend vind de ceremonie plaats. In de middag is er een gezamenlijke lunch en een foto sessie. In de avond gaan we gezamenlijk dineren.
@@ -60,7 +60,7 @@ layout: default
       <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Via%20Santa%20Brigida%2C%209%20-%2050060%20Santa%20Brigida%20(Firenze)&key=AIzaSyBRKaSyH8IXq5exYvfhiBmRcflNWDiu4To" allowfullscreen></iframe>
     </p>
     <p>
-      Het Castello del Trebbio (kasteel) is niet makkelijk met het openbaar vervoer te bereiken. Wij adviseren gasten om met de auto te komen, een auto te huren of met de taxi naar de accomodatie te komen. Castello del Trebbio heeft twee villa's die wij voor de bruiloft hebben gereserveerd, Villa Faltignano en Villa Pergola.
+      Het kasteel "Castello del Trebbio" is niet makkelijk met het openbaar vervoer te bereiken. Wij adviseren gasten om met de auto te komen, een auto te huren of met de taxi naar de accomodatie te komen. Castello del Trebbio heeft twee villa's die wij voor de bruiloft hebben gereserveerd, Villa Faltignano en Villa Pergola.
     </p>
     <p>
       <h3>Villa Faltignano</h3>
@@ -115,8 +115,8 @@ layout: default
       Het bruidspaar wil graag deze mooie gebeurtenis met jullie delen. Daarom verzorgen zij de volgende dingen:
       <ul>
         <li>2 dagen verblijf in Castello del Trebbio</li>
-        <li>2 maal ontbijt</li>
-        <li>vervoer van en naar trouwlocatie op de dag zelf</li>
+        <li>ontbijt op de trouwdag en de dag erna</li>
+        <li>vervoer van en naar trouwlocatie op de trouwdag</li>
         <li>lunch op trouwdag</li>
         <li>diner op trouwdag</li>
       </ul>
