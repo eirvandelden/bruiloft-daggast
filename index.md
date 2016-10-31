@@ -146,6 +146,22 @@ layout: default
   </div>
 </div>
 
+<div class="hero hero-title hero-title-receptie">
+  <h2>
+    Receptie
+  </h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Jullie zijn óók uitgenodigd voor de receptie.
+    </p>
+    <p>
+      Informatie over de receptie kunnen jullie vinden op <a href="http://receptie.vandelden.family">receptie.vandelden.family</a>.
+    </p>
+  </div>
+</div>
+
 <div class="hero hero-title hero-title-rsvp">
   <h2>
     RSVP
