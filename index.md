@@ -33,14 +33,14 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Op <em>12 september 2017</em> word je verwacht bij de accomodatie. Tussen 16:00 en 19:00 zullen de meeste mensen aankomen.
+      Op <em>12 september 2017</em>  word je verwacht bij de accomodatie. Tussen 16:00 en 19:00 zullen de meeste mensen aankomen.
       lijkt ons leuk om de eerste avond gezamenlijk te eten met het hele gezelschap.
     </p>
     <p>
-      Op <em>13 september 2017</em> is de daadwerkelijk plechtigheid. In de ochtend vind de ceremonie plaats. In de middag is er een gezamenlijke lunch en een foto sessie. In de avond gaan we gezamenlijk dineren.
+      Op <em>13 september 2017</em>  is de daadwerkelijk plechtigheid. In de ochtend vind de ceremonie plaats. In de middag is er een gezamenlijke lunch en een foto sessie. In de avond gaan we gezamenlijk dineren.
     </p>
     <p>
-      Op <em>14 september 2017</em> hebben we een laatste, gezamenlijk, ontbijt. Hierna is iedereen vrij om te gaan naar een eigen volgende bestemming.
+      Op <em>14 september 2017</em>  hebben we een laatste, gezamenlijk, ontbijt. Hierna is iedereen vrij om te gaan naar een eigen volgende bestemming.
     </p>
   </div>
 </div>
@@ -54,7 +54,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Tijdens de bruiloft verblijven we in twee villa's bij het kasteel "Castello del Trebbio". Castello del Trebbio ligt Pontassieve, een dorpje in de buurt van Florence.
+      Tijdens de bruiloft verblijven we in twee villa's bij het kasteel "Castello del Trebbio". Castello del Trebbio ligt in Pontassieve, een dorpje in de buurt van Florence.
     </p>
     <p>
       <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Via%20Santa%20Brigida%2C%209%20-%2050060%20Santa%20Brigida%20(Firenze)&key=AIzaSyBRKaSyH8IXq5exYvfhiBmRcflNWDiu4To" allowfullscreen></iframe>
@@ -133,7 +133,7 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Een aantal andere dingen zul je zelf moeten regelen. Denk hieraan aan onder andere:
+      Een aantal andere dingen zullen jullie zelf moeten regelen. Denk hierbij aan:
       <ul>
         <li>De reis heen en terug</li>
         <li>Vervoer van en naar de accomodatie</li>
@@ -154,10 +154,10 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Jullie zijn óók uitgenodigd voor de receptie.
+      Jullie zijn óók uitgenodigd voor de receptie in Nederland.
     </p>
     <p>
-      Informatie over de receptie kunnen jullie vinden op <a href="http://receptie.vandelden.family">receptie.vandelden.family</a>.
+      Informatie over de receptie kunnen jullie vinden op de receptie website, <a href="http://receptie.vandelden.family">http://receptie.vandelden.family</a>.
     </p>
   </div>
 </div>
@@ -185,10 +185,10 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Hier vind je alle nieuwe berichten rondom de bruiloft. Tevens krijg je een mailtje als er nieuws is.
+      Hier vind je alle nieuwsberichten rondom de bruiloft. Tevens krijg je een mailtje als er nieuws is.
     </p>
     <p>
-      De website voor de daggasten is online!
+      <strong>01-01-2017</strong> De website voor de daggasten is online!
     </p>
   </div>
 </div>
