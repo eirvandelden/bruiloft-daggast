@@ -37,7 +37,12 @@ layout: default
       lijkt ons leuk om de eerste avond gezamenlijk te eten met het hele gezelschap.
     </p>
     <p>
-      Op <em>13 september 2017</em>  is de daadwerkelijk plechtigheid. In de ochtend vind de ceremonie plaats. In de middag is er een gezamenlijke lunch en een foto sessie. In de avond gaan we gezamenlijk dineren.
+      Op <em>13 september 2017</em>  is de daadwerkelijk plechtigheid.
+      <ul>
+        <li>In de ochtend vind de ceremonie plaats.</li>
+        <li>In de middag is er een gezamenlijke lunch en een foto sessie.</li>
+        <li>In de avond gaan we gezamenlijk dineren in "Castello del Trebbio".</li>
+      </ul>
     </p>
     <p>
       Op <em>14 september 2017</em>  hebben we een laatste, gezamenlijk, ontbijt. Hierna is iedereen vrij om te gaan naar een eigen volgende bestemming.
