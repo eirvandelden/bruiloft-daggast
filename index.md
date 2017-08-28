@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<div id='note'>
+  Er is nieuws over de <a href="#wanneer">dagplanning</a>, <a href="#waar">locaties</a>, <a href='#lunch'>de lunch</a> en <a href="#dinner">het diner</a>.
+</div>
+
 <div class="hero hero-welcome">
   <img src="/images/save-the-date-logo.png">
   <div class="hero-bar"></div>
@@ -25,7 +29,7 @@ layout: default
 </div>
 
 <div class="hero hero-title hero-title-when">
-  <h2>
+  <h2 id='wanneer'>
     Wanneer
   </h2>
 </div>
@@ -33,25 +37,42 @@ layout: default
 <div class="text-block">
   <div class="text-block-inner">
     <p>
-      Op <em>12 september 2017</em>  word je verwacht bij de accomodatie. Tussen 16:00 en 19:00 zullen de meeste mensen aankomen.
-      lijkt ons leuk om de eerste avond gezamenlijk te eten met het hele gezelschap.
+      Op <em>12 september 2017</em> word je verwacht bij de accomodatie. Tussen 16:00 en 19:00 is de check-in bij Castello del Trebbio.
+      Het lijkt ons leuk om de eerste avond gezamenlijk te eten met het hele gezelschap. Om te weten wat het precieze plan is, neem even contact op met de ceremoniemeester <a href="mailto:mjaj.dela.haije@gmail.com?subject=Bruiloft Michèlle en Etienne">Maxim de la Haije</a>
     </p>
     <p>
-      Op <em>13 september 2017</em>  is de daadwerkelijk plechtigheid.
-      <ul>
-        <li>In de ochtend vind de ceremonie plaats.</li>
-        <li>In de middag is er een gezamenlijke lunch en een foto sessie.</li>
-        <li>In de avond gaan we gezamenlijk dineren in "Castello del Trebbio".</li>
-      </ul>
+      Op <em>13 september 2017</em> is de daadwerkelijke plechtigheid, in de "Red Hall" van "Palazzo Vecchio" in hartje Florence. <br />
+      Het ontbijt wordt in restaurant "La Sosta del Gusto" geserveerd; ontbijt gaat in twee groepen, eerst het huis met Michèlle, daarna het andere huis met Etienne.
     </p>
     <p>
-      Op <em>14 september 2017</em>  hebben we een laatste, gezamenlijk, ontbijt. Hierna is iedereen vrij om te gaan naar een eigen volgende bestemming.
+      's Ochtends vroeg haalt Etienne Michèlle op bij de villa Faltignano op het terrein van Castello del Trebbio.
+    </p>
+    <p>
+      <strong>10:00</strong> Het busje vertrekt vanuit Castello del Trebbio naar Florence.
+    </p>
+    <p>
+      <strong>11:00</strong> Ceremonie in Palazzo Vecchio.
+    </p>
+    <p>
+      <strong>12:30</strong> Lunch in "La Boccanegra".
+    </p>
+    <p>
+      <strong>14:00</strong> Het busje vertrekt terug naar Castello del Trebbio.
+    </p>
+    <p>
+      <strong>18:30</strong> Aperitief bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio.
+    </p>
+    <p>
+      <strong>19:00</strong> Diner bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio.
+    </p>
+    <p>
+      Op <em>14 september 2017</em> hebben we een laatste, gezamenlijk, ontbijt. Hierna is iedereen vrij om te gaan naar een eigen volgende bestemming. Checkout is vóór 10:00, Michelle & Etienne moeten uiterlijk 10:00 op huwelijksreis.
     </p>
   </div>
 </div>
 
 <div class="hero hero-title hero-title-where">
-  <h2>
+  <h2 id='waar'>
     Waar
   </h2>
 </div>
@@ -86,6 +107,7 @@ layout: default
         <li>Prive parkeerplaats;</li>
       </ul>
     </p>
+    <p>Michelle verblijft in dit huis, samen met de familie de la Haije, Nina & Maarten, Nicole & Dennis.</p>
     <p>
       <h3>Villa Pergola & <span class='no-wrap'>Appartement il Rifugio</span></h3>
     </p>
@@ -103,7 +125,34 @@ layout: default
       </ul>
     </p>
     <p>
-      Wanneer duidelijk is wie er allemaal mee komen naar Italie, krijg je te horen in welke van de twee villa's je zal verblijven.
+      Etienne verblijft in het appartement il Rifugio met Bianca & Rob. In Villa Pergola verblijven de (overige) familie van Delden, Marlo & Brendan, Ron & Anne, Merijn & Jie.
+    </p>
+    <p>
+      De plechtigheid zal plaats vinden in de "Red Hall" van "Palazzo Vecchio", het gemeentehuis van Florence.
+    </p>
+    <p>
+      <iframe width="100%" height="450" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?q=Palazzo%20Vecchio&key=AIzaSyBRKaSyH8IXq5exYvfhiBmRcflNWDiu4To" allowfullscreen></iframe>
+    </p>
+    <p>
+      De lunch is bij restaurant "La Boccanegra" op 10 minuten loopafstand van Palazzo Vecchio
+    </p>
+    <p>
+      <iframe width="100%" height="450" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2881.1227432754113!2d11.259228315532434!3d43.770310852867816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132a5406ebe43853%3A0x1fb0f42e91540cf7!2sRistorante+Boccanegra!5e0!3m2!1snl!2snl!4v1503572890637" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </p>
+    <p>
+      Het diner is bij "La Sosta del Gusto", op het terrein van Castello del Trebbio.
+    </p>
+    <p>
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2877.875736314573!2d11.384761315534188!3d43.837674448500096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x132b006007651dc5%3A0x960042e3a190d5c8!2sLa+Sosta+del+Gusto!5e0!3m2!1snl!2snl!4v1503573109523" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+    </p>
+    <p>
+      Wil je parkeeradvies in Florence? Kijk dan op <a href="http://www.parkopedia.it/parking/carpark/piazza_di_cestello/50124/firenze/?country=it&arriving=201709122030&leaving=201709122230">parkepedia.it</a>
+    </p>
+    <p>
+      Florence is een stad met een oud centrum. In de stad geldt een mileuzone, waardoor het alleen tussen bepaalde tijden mogelijk is om daar met de auto te komen. Mocht je met de auto naar Florence willen, lees dan zeker <a href="https://www.anwb.nl/vakantie/italie/informatie/milieuzones">het advies van de anwb over mileuzones</a> even door. Zo voorkom je fikse boetes.
+    </p>
+    <p>
+      Wil je met het openbaar vervoer van Station Firenze naar Castello del Trebbio? Volg dan <a href="https://moovitapp.com/?from=Stazione%20Di%20Santa%20Maria%20Novella&to=Castello%20Del%20Trebbio&fll=43.776734_11.247676&tll=43.83718_11.387146&routeTypes=bus&customerId=4908&metroId=2022&lang=it">deze link op moovitapp.com</a>.
     </p>
   </div>
 </div>
@@ -167,6 +216,44 @@ layout: default
   </div>
 </div>
 
+<div class='hero hero-title hero-title-lunch'>
+  <h2 id='lunch'>Lunch</h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>
+      Na de ceremonie gaan we gezamenlijk naar lunch locatie "Ristorante Boccanegra". De lunch bestaat uit drie gangen;
+    </p>
+    <p>
+      Als voorgerecht een ssortiment van vlees, croutouns, kazen en groenten in olie.
+    </p>
+    <p>
+      Het hoofdgerecht is huis gemaakte pasta met Toscaanse vleessaus.
+    </p>
+    <p>
+      Het nagerecht is een échte Italiaanse tiramisu.
+    </p>
+    <p>
+      Tijdens de lunch wordt koffie, 1/2 liter water, 1/4 liter wijn geschonken.
+    </p>
+  </div>
+</div>
+
+<div class='hero hero-title hero-title-dinner'>
+  <h2 id='dinner'>Dinner</h2>
+</div>
+<div class="text-block">
+  <div class="text-block-inner">
+    <p>In de avond eten we bij "La Sosta del Gusto", het restaurant bij Castelle del Trebbio. Er wordt een 5-gangen diner geserveerd;
+    </p>
+    <p>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCqKBCQjOCJ88ICuFmbyn3hxoOv42lxTNCxwQIstX_G4UARQ/viewform?embedded=true" height="900px" marginheight="0" marginwidth="0">Bezig met laden...</iframe>
+    </p>
+    <p>
+      Tijdens het diner wordt onbeperkt water en wijn geschonken. Vooraf genieten wij gezamenlijk van een aperitief.
+    </p>
+  </div>
+</div>
 <div class="hero hero-title hero-title-rsvp">
   <h2>
     RSVP
@@ -193,7 +280,22 @@ layout: default
       Hier vind je alle nieuwsberichten rondom de bruiloft. Tevens krijg je een mailtje als er nieuws is.
     </p>
     <p>
-      <strong>01-01-2017</strong> De website voor de daggasten is online!
+      De villa verdeling is toegevoegd.
+    </p>
+    <p>
+      De dagplanning is toevoegd. Ook is er advies voor parkeren en openbaar vervoer in Italie.
+    </p>
+    <p>
+      De lokaties voor de lunch en het diner zijn toegevoegd.
+    </p>
+    <p>
+      Het menu van de lunch staat online.
+    </p>
+    <p>
+      Er is een formulier om door te geven wat je wil eten voor het diner.
+    </p>
+    <p>
+      De website voor de daggasten is online!
     </p>
   </div>
 </div>
