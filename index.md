@@ -240,7 +240,7 @@ layout: default
 </div>
 
 <div class='hero hero-title hero-title-dinner'>
-  <h2 id='dinner'>Dinner</h2>
+  <h2 id='dinner'>Diner</h2>
 </div>
 <div class="text-block">
   <div class="text-block-inner">
