@@ -244,7 +244,7 @@ layout: default
 </div>
 <div class="text-block">
   <div class="text-block-inner">
-    <p>In de avond eten we bij "La Sosta del Gusto", het restaurant bij Castelle del Trebbio. Er wordt een 5-gangen diner geserveerd;
+    <p>In de avond eten we bij "La Sosta del Gusto", het restaurant bij Castello del Trebbio. Er wordt een 5-gangen diner geserveerd;
     </p>
     <p>
       <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdCqKBCQjOCJ88ICuFmbyn3hxoOv42lxTNCxwQIstX_G4UARQ/viewform?embedded=true" height="900px" marginheight="0" marginwidth="0">Bezig met laden...</iframe>
