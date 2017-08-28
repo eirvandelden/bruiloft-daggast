@@ -60,6 +60,9 @@ layout: default
       <strong>14:00</strong> Het busje vertrekt terug naar Castello del Trebbio.
     </p>
     <p>
+      <strong>15:00</strong> Aankomst op Castello del Trebbio. Tot het aperitief mag je je tijd zelf invullen.
+    </p>
+    <p>
       <strong>18:30</strong> Aperitief bij restaurant "La Sosta del Gusto" op het terrein van Castello del Trebbio.
     </p>
     <p>
